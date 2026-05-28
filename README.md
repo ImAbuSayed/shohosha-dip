@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shohosha-dip/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Shohosha Dip](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shohosha-dip/) |
+| **Get License** | [Secure Licensing Rights for Shohosha Dip](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shohosha-dip/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ধোঁয়াটে এই রাতের বুকে তুমি বিষাক্ত এক মায়া
+> আমার চোখে ভাসছে কেবল তোমার ওই অচিন ছায়া
+> পাগল করা এই নেশাতে কাছে তুমি আজ এসো
+> জং ধরা এই পুরনো সুরে আমায় ভালোবেসো
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

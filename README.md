@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shohosha-dip/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Shohosha Dip](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shohosha-dip/) |
+| **Get License** | [Request Licensing for Shohosha Dip](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shohosha-dip/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `72c607b27ec4381c23e87f60706bce755a0eae8ed049c4d5788d52bed281ea48` |
 | **Timestamp** | May 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
